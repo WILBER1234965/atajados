@@ -28,17 +28,7 @@ namespace atajados.PageModels
         [ObservableProperty]
         private bool _isBusy;
 
-        // --------------------------------------------------------------------
-        //  Comandos expuestos a la interfaz (XAML)
-        // --------------------------------------------------------------------
-        public ICommand LoadItemsCommand => new AsyncRelayCommand(LoadItemsAsync);
-        public ICommand ImportItemsCommand => new AsyncRelayCommand(ImportItemsAsync);
-        public ICommand ExportItemsCommand => new AsyncRelayCommand(ExportItemsAsync);
-
-        //  ⬇ Añadimos los tres comandos que antes chocaban con el generador
-        public ICommand AddItemCommand => new AsyncRelayCommand(AddItemAsync);
-        public ICommand DeleteItemCommand => new AsyncRelayCommand<Item>(DeleteItemAsync);
-        public ICommand EditItemCommand => new AsyncRelayCommand<Item>(EditItemAsync);
+        //  Comandos generados mediante atributos [RelayCommand]
 
         public ItemsViewModel(DatabaseService db, ExcelService excel)
         {
@@ -46,13 +36,14 @@ namespace atajados.PageModels
             _excel = excel;
 
             // Carga inicial de la lista
-            _ = LoadItemsAsync();
+            _ = LoadItems();
         }
 
         // --------------------------------------------------------------------
         //  Carga de ítems
         // --------------------------------------------------------------------
-        private async Task LoadItemsAsync()
+        [RelayCommand]
+        private async Task LoadItems()
         {
             if (IsBusy) return;
             IsBusy = true;
@@ -78,7 +69,8 @@ namespace atajados.PageModels
         // --------------------------------------------------------------------
         //  Importar desde Excel
         // --------------------------------------------------------------------
-        private async Task ImportItemsAsync()
+        [RelayCommand]
+        private async Task ImportItems()
         {
             if (IsBusy) return;
             IsBusy = true;
@@ -122,7 +114,8 @@ namespace atajados.PageModels
         // --------------------------------------------------------------------
         //  Exportar a Excel
         // --------------------------------------------------------------------
-        private async Task ExportItemsAsync()
+        [RelayCommand]
+        private async Task ExportItems()
         {
             if (IsBusy) return;
             IsBusy = true;
@@ -149,7 +142,8 @@ namespace atajados.PageModels
         // --------------------------------------------------------------------
         //  Operaciones sobre un ítem individual
         // --------------------------------------------------------------------
-        private async Task AddItemAsync()
+        [RelayCommand]
+        private async Task AddItem()
         {
             if (IsBusy) return;
             IsBusy = true;
@@ -159,7 +153,8 @@ namespace atajados.PageModels
 
                 var nuevo = new Item
                 {
-                    Numero = string.Empty, // lo rellenará el usuario
+                    // Generamos un número temporal único para evitar errores
+                    Numero = $"TMP-{DateTimeOffset.UtcNow.ToUnixTimeMilliseconds()}",
                     Descripcion = string.Empty,
                     Unidad = string.Empty,
                     Cantidad = 0,
@@ -182,7 +177,8 @@ namespace atajados.PageModels
             }
         }
 
-        private async Task DeleteItemAsync(Item item)
+        [RelayCommand]
+        private async Task DeleteItem(Item item)
         {
             if (item is null || IsBusy) return;
             IsBusy = true;
@@ -204,7 +200,8 @@ namespace atajados.PageModels
             }
         }
 
-        private async Task EditItemAsync(Item item)
+        [RelayCommand]
+        private async Task EditItem(Item item)
         {
             if (item is null || IsBusy) return;
             IsBusy = true;
