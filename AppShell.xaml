@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shell
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:atajados.Pages"
+    x:Class="atajados.AppShell">
+
+    <!-- Rutas explícitas para facilitar la navegación -->
+    <ShellItem Route="Items" Title="Ítems" Icon="icon_items.png">
+        <ShellContent ContentTemplate="{DataTemplate pages:ItemsPage}" />
+    </ShellItem>
+
+
+
+</Shell>

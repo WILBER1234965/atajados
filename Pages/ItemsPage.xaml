@@ -1,0 +1,73 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:atajados.PageModels"
+             xmlns:models="clr-namespace:atajados.Models"
+             x:Class="atajados.Pages.ItemsPage"
+             Title="Ítems">
+
+
+    <!-- Indicador de carga -->
+    <Grid>
+        <!-- Contenido principal -->
+        <VerticalStackLayout
+            Padding="20"
+            Spacing="16">
+
+            <!-- Botonera -->
+            <HorizontalStackLayout Spacing="12">
+                <Button Text="Recargar"
+                        Command="{Binding LoadItemsCommand}" />
+
+                <Button Text="Importar Excel"
+                        Command="{Binding ImportItemsCommand}" />
+
+                <Button Text="Exportar Excel"
+                        Command="{Binding ExportItemsCommand}" />
+
+                <Button Text="Agregar Ítem"
+                        Command="{Binding AddItemCommand}" />
+            </HorizontalStackLayout>
+
+            <!-- Lista de ítems -->
+            <CollectionView ItemsSource="{Binding Items}"
+                            EmptyView="No hay ítems cargados">
+
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:DataType="models:Item"
+                                  xmlns:models="clr-namespace:atajados.Models">
+                        <SwipeView>
+                            <SwipeView.RightItems>
+                                <!-- Botón Eliminar dentro del swipe -->
+                                <SwipeItem Text="Eliminar"
+                                           BackgroundColor="Tomato"
+                                           Command="{Binding Source={RelativeSource AncestorType={x:Type vm:ItemsViewModel}},
+                                                             Path=DeleteItemCommand}"
+                                           CommandParameter="{Binding .}" />
+                            </SwipeView.RightItems>
+
+                            <Grid Padding="8">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+
+                                <Label Text="{Binding Numero}"
+                                       FontAttributes="Bold" />
+
+                                <Label Text="{Binding Descripcion}"
+                                       Grid.Row="1"
+                                       FontSize="12" />
+                            </Grid>
+                        </SwipeView>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+
+        <!-- Spinner centrado -->
+        <ActivityIndicator IsRunning="{Binding IsBusy}"
+                           IsVisible="{Binding IsBusy}"
+                           HorizontalOptions="Center"
+                           VerticalOptions="Center" />
+    </Grid>
+</ContentPage>

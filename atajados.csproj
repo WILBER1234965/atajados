@@ -1,0 +1,68 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Multi-target MAUI -->
+    <TargetFrameworks>
+      net9.0-android;
+      net9.0-ios;
+      net9.0-maccatalyst;
+      net9.0-windows10.0.19041.0
+    </TargetFrameworks>
+
+    <!-- Esto es esencial para que el SDK genere un EXE -->
+    <OutputType>Exe</OutputType>
+
+    <RootNamespace>atajados</RootNamespace>
+    <UseMaui>true</UseMaui>
+    <SingleProject>true</SingleProject>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- Suprime el warning de duplicados y versiones -->
+    <NoWarn>XC0103;NU1605</NoWarn>
+    <MauiEnableXamlCBindingWithSourceCompilation>true</MauiEnableXamlCBindingWithSourceCompilation>
+
+    <!-- Identidad de la app -->
+    <ApplicationTitle>atajados</ApplicationTitle>
+    <ApplicationId>com.companyname.atajados</ApplicationId>
+    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+    <ApplicationVersion>1</ApplicationVersion>
+
+    <!-- Para Windows (desempaquetado / unpackaged) -->
+    <WindowsPackageType>None</WindowsPackageType>
+  </PropertyGroup>
+
+  <!-- Compatibilidad mínima Android 12 (API 31) -->
+  <PropertyGroup Condition="'$(TargetFramework)' == 'net9.0-android'">
+    <SupportedOSPlatformVersion>31</SupportedOSPlatformVersion>
+  </PropertyGroup>
+
+  <!-- Assets, imágenes, iconos, splash... -->
+  <ItemGroup>
+    <MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#17171a" />
+    <MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#17171a" BaseSize="128,128" />
+    <MauiImage Include="Resources\Images\*" />
+    <MauiImage Update="Resources\Images\dotnet_bot.png" Resize="True" BaseSize="300,185" />
+    <MauiFont Include="Resources\Fonts\*" />
+
+    <!-- Reemplazo de comodín por inclusión explícita -->
+    <MauiAsset Include="Resources\Raw\AboutAssets.txt" />
+    <MauiAsset Include="Resources\Raw\SeedData.json" />
+  </ItemGroup>
+
+  <!-- Paquetes NuGet -->
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
+    <PackageReference Include="CommunityToolkit.Maui" Version="9.1.0" />
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.4.0" />
+    <PackageReference Include="Syncfusion.Maui.Toolkit" Version="1.0.4" />
+
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.6" />
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="9.0.6" />
+    <PackageReference Include="SQLitePCLRaw.bundle_green" Version="2.1.10" />
+
+    <!-- Solo esta entrada a ClosedXML -->
+    <PackageReference Include="ClosedXML" Version="0.105.0" />
+  </ItemGroup>
+
+</Project>

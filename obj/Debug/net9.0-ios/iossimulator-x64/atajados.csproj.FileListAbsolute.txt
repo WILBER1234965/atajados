@@ -1,0 +1,675 @@
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\atajados.runtimeconfig.json
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\atajados.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\atajados.pdb
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ClosedXML.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ClosedXML.Parser.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\CommunityToolkit.Maui.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\CommunityToolkit.Maui.Core.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\DocumentFormat.OpenXml.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\DocumentFormat.OpenXml.Framework.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ExcelNumberFormat.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Data.Sqlite.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Relational.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Abstractions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Memory.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyModel.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\RBush.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\SixLabors.Fonts.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\SQLitePCLRaw.batteries_v2.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\SQLitePCLRaw.core.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\SQLitePCLRaw.lib.e_sqlite3.ios.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\SQLitePCLRaw.provider.internal.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\SQLitePCLRaw.provider.sqlite3.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Syncfusion.Maui.Toolkit.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Syncfusion.Maui.Toolkit.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Packaging.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ar\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ca\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\cs\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\da\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\de\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\el\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\es\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\fi\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\fr\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\he\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\hi\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\hr\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\hu\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\id\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\it\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ja\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ko\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ms\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\nb\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\nl\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\pl\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\pt\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ro\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ru\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\sk\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\sv\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\th\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\tr\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\uk\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\vi\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.AppContext.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Buffers.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Collections.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ComponentModel.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Configuration.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Console.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Core.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Data.Common.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Data.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Drawing.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Formats.Tar.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Globalization.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Compression.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Pipelines.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Pipes.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Linq.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Memory.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Http.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Mail.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Ping.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Primitives.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Quic.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Requests.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Security.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Sockets.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.WebClient.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Numerics.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ObjectModel.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Private.Uri.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Private.Xml.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Resources.Reader.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Resources.Writer.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.JavaScript.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Claims.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Principal.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.SecureString.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ServiceProcess.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Text.Encoding.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Text.Json.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Channels.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Thread.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Timer.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Transactions.Local.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Transactions.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ValueTuple.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Web.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Windows.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.Linq.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.XPath.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\WindowsBase.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\mscorlib.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\netstandard.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.iOS.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Globalization.Native.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Globalization.Native.dylib
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Native.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Native.dylib
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen-static.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen-stub-static.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen.dylib
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmonosgen-2.0.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libextension-dotnet.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot-debug.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet.a
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\build-signature\signature
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.csproj.AssemblyReference.cache
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauiimage.inputs
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauifont.inputs
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauisplash.inputs
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\MauiInfo.plist
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_00A36CE537AD4422B12E77F909B58F8455EBD93A5B92697AE89B337EACEC233F.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_00A36CE537AD4422B12E77F909B58F8455EBD93A5B92697AE89B337EACEC233F@2x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_00A36CE537AD4422B12E77F909B58F8455EBD93A5B92697AE89B337EACEC233F@3x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauisplash.stamp
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauiimage.stamp
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauiimage.outputs
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauifont.stamp
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\FluentSystemIcons-Regular.ttf
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\FluentUI.cs
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\SegoeUI-Semibold.ttf
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\copySceneKitAssets\_ProcessedSceneKitAssetsPath.items
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\collada\_ProcessedColladaAssetsPath.items
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atlas\_ProcessedTextureAtlasesPath.items
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\_ProcessedContentPath.items
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.AssemblyInfoInputs.cache
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.AssemblyInfo.cs
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\XamlC.stamp
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.csproj.Up2Date
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\refint\atajados.dll
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.pdb
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.genruntimeconfig.cache
+E:\PROYECTOS\PROYECTO SUPERVISIÓN ATAJADOS TOTORA\11. PROGRAMAS\atajados\obj\Debug\net9.0-ios\iossimulator-x64\ref\atajados.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\atajados.runtimeconfig.json
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\atajados.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\atajados.pdb
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ClosedXML.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ClosedXML.Parser.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\CommunityToolkit.Maui.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\CommunityToolkit.Maui.Core.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\CommunityToolkit.Mvvm.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\DocumentFormat.OpenXml.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\DocumentFormat.OpenXml.Framework.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ExcelNumberFormat.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Data.Sqlite.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Relational.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Abstractions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Caching.Memory.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyModel.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Logging.Abstractions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Options.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Extensions.Primitives.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.Xaml.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Essentials.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\RBush.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\SixLabors.Fonts.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\SQLitePCLRaw.batteries_v2.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\SQLitePCLRaw.core.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\SQLitePCLRaw.lib.e_sqlite3.ios.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\SQLitePCLRaw.provider.internal.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\SQLitePCLRaw.provider.sqlite3.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Syncfusion.Maui.Toolkit.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Syncfusion.Maui.Toolkit.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Packaging.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ar\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ca\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\cs\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\da\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\de\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\el\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\es\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\fi\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\fr\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\he\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\hi\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\hr\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\hu\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\id\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\it\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ja\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ko\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ms\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\nb\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\nl\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\pl\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\pt\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ro\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\ru\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\sk\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\sv\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\th\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\tr\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\uk\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\vi\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.CSharp.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.VisualBasic.Core.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.VisualBasic.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Win32.Primitives.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Win32.Registry.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.AppContext.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Buffers.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Collections.Concurrent.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Collections.Immutable.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Collections.NonGeneric.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Collections.Specialized.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Collections.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ComponentModel.Annotations.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ComponentModel.DataAnnotations.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ComponentModel.EventBasedAsync.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ComponentModel.Primitives.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ComponentModel.TypeConverter.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ComponentModel.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Configuration.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Console.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Core.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Data.Common.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Data.DataSetExtensions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Data.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.Contracts.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.Debug.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.DiagnosticSource.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.FileVersionInfo.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.Process.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.StackTrace.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.TextWriterTraceListener.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.Tools.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.TraceSource.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Diagnostics.Tracing.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Drawing.Primitives.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Drawing.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Dynamic.Runtime.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Formats.Asn1.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Formats.Tar.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Globalization.Calendars.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Globalization.Extensions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Globalization.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Compression.Brotli.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Compression.FileSystem.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Compression.ZipFile.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Compression.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.FileSystem.AccessControl.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.FileSystem.DriveInfo.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.FileSystem.Primitives.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.FileSystem.Watcher.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.FileSystem.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.IsolatedStorage.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.MemoryMappedFiles.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Pipelines.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Pipes.AccessControl.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.Pipes.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.UnmanagedMemoryStream.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.IO.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Linq.Expressions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Linq.Parallel.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Linq.Queryable.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Linq.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Memory.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Http.Json.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Http.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.HttpListener.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Mail.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.NameResolution.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.NetworkInformation.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Ping.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Primitives.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Quic.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Requests.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Security.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.ServicePoint.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.Sockets.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.WebClient.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.WebHeaderCollection.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.WebProxy.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.WebSockets.Client.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.WebSockets.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Net.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Numerics.Vectors.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Numerics.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ObjectModel.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Private.DataContractSerialization.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Private.Uri.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Private.Xml.Linq.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Private.Xml.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.DispatchProxy.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.Emit.ILGeneration.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.Emit.Lightweight.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.Emit.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.Extensions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.Metadata.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.Primitives.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.TypeExtensions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Reflection.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Resources.Reader.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Resources.ResourceManager.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Resources.Writer.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.CompilerServices.Unsafe.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.CompilerServices.VisualC.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Extensions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Handles.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.JavaScript.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.InteropServices.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Intrinsics.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Loader.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Numerics.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Formatters.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Json.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Primitives.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.Xml.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.Serialization.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Runtime.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.AccessControl.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Claims.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Algorithms.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Cng.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Csp.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Encoding.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.OpenSsl.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.Primitives.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.X509Certificates.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Cryptography.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Principal.Windows.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.Principal.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.SecureString.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Security.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ServiceModel.Web.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ServiceProcess.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Text.Encoding.CodePages.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Text.Encoding.Extensions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Text.Encoding.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Text.Encodings.Web.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Text.Json.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Text.RegularExpressions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Channels.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Overlapped.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Dataflow.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Extensions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Tasks.Parallel.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Tasks.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Thread.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.ThreadPool.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.Timer.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Threading.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Transactions.Local.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Transactions.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.ValueTuple.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Web.HttpUtility.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Web.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Windows.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.Linq.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.ReaderWriter.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.Serialization.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.XDocument.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.XPath.XDocument.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.XPath.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.XmlDocument.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.XmlSerializer.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Xml.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\WindowsBase.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\mscorlib.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\netstandard.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.iOS.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\System.Private.CoreLib.dll
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Globalization.Native.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Globalization.Native.dylib
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.IO.Compression.Native.dylib
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Native.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Native.dylib
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Net.Security.Native.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Net.Security.Native.dylib
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-debugger-static.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-debugger.dylib
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen-static.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen-stub-static.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmono-component-marshal-ilgen.dylib
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmonosgen-2.0.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libextension-dotnet.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet-debug.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet-debug.dylib
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot-debug.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet.a
+F:\atajados\bin\Debug\net9.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.csproj.AssemblyReference.cache
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauiimage.inputs
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauifont.inputs
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauisplash.inputs
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\MauiInfo.plist
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_00A36CE537AD4422B12E77F909B58F8455EBD93A5B92697AE89B337EACEC233F.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_00A36CE537AD4422B12E77F909B58F8455EBD93A5B92697AE89B337EACEC233F@2x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_00A36CE537AD4422B12E77F909B58F8455EBD93A5B92697AE89B337EACEC233F@3x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauisplash.stamp
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauiimage.stamp
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauiimage.outputs
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\mauifont.stamp
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\FluentSystemIcons-Regular.ttf
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\FluentUI.cs
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Semibold.ttf
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\resizetizer\f\SegoeUI-Semibold.ttf
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\copySceneKitAssets\_ProcessedSceneKitAssetsPath.items
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\collada\_ProcessedColladaAssetsPath.items
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atlas\_ProcessedTextureAtlasesPath.items
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\_ProcessedBundleResourcesPath.items
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\_ProcessedContentPath.items
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.GeneratedMSBuildEditorConfig.editorconfig
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.AssemblyInfoInputs.cache
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.AssemblyInfo.cs
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.csproj.CoreCompileInputs.cache
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\XamlC.stamp
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.csproj.Up2Date
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.dll
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\refint\atajados.dll
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.pdb
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\atajados.genruntimeconfig.cache
+F:\atajados\obj\Debug\net9.0-ios\iossimulator-x64\ref\atajados.dll
